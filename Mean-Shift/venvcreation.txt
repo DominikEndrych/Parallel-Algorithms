@@ -1,0 +1,2 @@
+python -m venv my_name
+python select interpreter
